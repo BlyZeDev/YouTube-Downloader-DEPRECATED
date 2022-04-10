@@ -21,4 +21,5 @@ Example : {"ThemeType":-1,"Background":"#32a852", "Control":"#244078", "Button":
 Congrats you've made a custom theme!
 
 If you like it you can send me the .json file and if it convinces me it could be included as official theme :)
--> More information: https://github.com/BlyZeYT/YouTube-Downloader
+-> More information:
+https://github.com/BlyZeYT/YouTube-Downloader
