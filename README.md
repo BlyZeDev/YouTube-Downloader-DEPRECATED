@@ -1,5 +1,8 @@
 # YouTube Downloader by BlyZe
 
+> 🔴 **Project status**: Discontinued<sup>[[?]](https://github.com/BlyZeYT/.github/blob/master/project-status.md)</sup>
+### New YouTube Downloader: link coming
+
 ## Completely free to use with no watermarks
 
 - Supports download of all youtube videos in all resolutions and audio bitrates
